@@ -29,8 +29,21 @@ Berisi seluruh kode latihan:
 5. Menggunakan ArrayList  
 6. Menerima input dari pengguna  
 
-## ▶️ Cara Menjalankan  
+## Cara Menjalankan  
 1. Pastikan Java Development Kit (JDK) sudah terpasang di komputer  
 2. Clone repository ini:
    ```bash
    git clone https://github.com/username/repo-name.git
+   ```
+3. Masuk ke folder project:
+   ```bash
+   cd repo-name
+   ```
+5. Compile program:
+   ```bash
+   javac Main.java
+   ```
+7. Jalankan program:
+   ```bash
+   java Main
+   ```
