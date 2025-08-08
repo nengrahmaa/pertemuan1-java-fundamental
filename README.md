@@ -1,9 +1,9 @@
 # Java Fundamental - Pertemuan 1  
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/repo-name?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/username/repo-name?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/username/repo-name?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/nengrahmaa/pertemuan1-java-fundamental?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/nengrahmaa/pertemuan1-java-fundamental?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/nengrahmaa/pertemuan1-java-fundamental?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/nengrahmaa/pertemuan1-java-fundamental?style=for-the-badge)
 **Materi:** Pengenalan Java, Output, Tipe Data & Variabel, Operator, dan Input  
 
 ## Deskripsi  
