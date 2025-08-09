@@ -39,11 +39,11 @@ Berisi seluruh kode latihan:
 1. Pastikan Java Development Kit (JDK) sudah terpasang di komputer  
 2. Clone repository ini:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/nengrahmaa/pertemuan1-java-fundamental.git
    ```
 3. Masuk ke folder project:
    ```bash
-   cd repo-name
+   cd pertemuan1-java-fundamental
    ```
 5. Compile program:
    ```bash
